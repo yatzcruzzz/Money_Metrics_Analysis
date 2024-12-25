@@ -1,8 +1,8 @@
-Money Metrics Analysis Dashboard
+# Money Metrics Analysis Dashboard
 This repository contains a Power BI dashboard project designed to provide an interactive analysis of key financial metrics. The dashboard visualizes critical performance indicators, including Sales, Profit, Cost of Goods Sold (COGS), and Units Sold, segmented across various dimensions such as country, segment, and time.
 
-Key Features-
-# Metrics Overview
+# Key Features-
+Metrics Overview
 - Sales: Total revenue generated (118.73M).
 - Profit: Total profit achieved (16.89M).
 - COGS: Total cost of goods sold (101.83M).
